@@ -3,5 +3,7 @@ public class maven {
         int x=100;
 
 int r=100;
+System.out.println(x+r);
+
     }
 }
